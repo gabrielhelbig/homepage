@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  h1 > small {
+    font-weight: 100;
+    color: 880000;
+    font-size: smaller;
+    background-color: #ffffcc;
+  }
+
+  img {
+    border: 5px dotted orange;
+    margin: 1em;
+    padding: 1em;
+  }
